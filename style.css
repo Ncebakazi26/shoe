@@ -1,0 +1,20 @@
+body{
+  border: solid; 
+  background-color:  #ffe5e5;
+  border-width: thick;
+  border-width: thick;
+  width: auto;
+  height: 500px;
+}
+
+    
+#brand {
+  border-radius: 1.25rem;
+  padding: 5px;
+  font-size:20px;
+}
+.btn{
+  border-radius: 1.25rem;
+  padding: 5px;
+  font-size:25px;
+}
